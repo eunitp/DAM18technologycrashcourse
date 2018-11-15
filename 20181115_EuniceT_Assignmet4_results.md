@@ -1,4 +1,4 @@
-# Results from Assgiment 4
+# Results from Assignment 4
 *We consider to give the team a bonus for decreasing the error ratio*
 
 **Main findings:**
